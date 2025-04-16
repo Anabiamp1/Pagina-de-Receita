@@ -4,7 +4,7 @@
 
 🥘 Site de uma página de receita.
 
-![Image](https://github.com/user-attachments/assets/3cbb7f94-0150-476f-a8e0-7d36a5b06407)
+(https://github.com/user-attachments/assets/c39b39de-fd0c-460c-9beb-52682f73312f)
 
 <p align="center">
   <a href="#page_with_curl-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
