@@ -4,7 +4,8 @@
 
 🥘 Site de uma página de receita.
 
-![](https://github.com/user-attachments/assets/5049e61b-f268-43ed-a467-54660f4fd83c)
+![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/c529e81f-fb36-4941-86e8-71eaa37a5e3d)
+
 
 <p align="center">
   <a href="#page_with_curl-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
