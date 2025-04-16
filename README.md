@@ -4,7 +4,7 @@
 
 🥘 Site de uma página de receita.
 
-(https://github.com/user-attachments/assets/c39b39de-fd0c-460c-9beb-52682f73312f)
+![](https://github.com/user-attachments/assets/5049e61b-f268-43ed-a467-54660f4fd83c)
 
 <p align="center">
   <a href="#page_with_curl-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 ## :page_with_curl: Sobre
 
-Esse repositório consta como um exemplo de um site que pode se flexibilidar conforme a idade fornecida.
+Esse repositório consta como um exemplo de uma página de receita.
 
 O site conta com uma funcionalidade implementada com JavaScript que altera sua aparência de acordo com o horário do computador do usuário, oferecendo uma experiência visual diferente que se altera de acordo com os dados fornecidos. O desenvolvimento foi feito utilizando HTML, CSS e JavaScript no Visual Studio Code.
 
@@ -24,7 +24,6 @@ O site conta com uma funcionalidade implementada com JavaScript que altera sua a
 
 Esse projeto foi desenvolvido utilizando-se as tecnologias:
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content)
 
