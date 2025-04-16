@@ -1,8 +1,8 @@
 <h1 align="center">
- Verificador de Idade
+ Página de Receita
 </h1>
 
-🧑‍🦳 Site altera as imagens de acordo com a idade fornecida.
+🥘 Site de uma página de receita.
 
 ![Image](https://github.com/user-attachments/assets/3cbb7f94-0150-476f-a8e0-7d36a5b06407)
 
