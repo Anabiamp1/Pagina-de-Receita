@@ -19,7 +19,6 @@
 
 Esse repositório consta como um exemplo de uma página de receita.
 
-O site conta com uma funcionalidade implementada com JavaScript que altera sua aparência de acordo com o horário do computador do usuário, oferecendo uma experiência visual diferente que se altera de acordo com os dados fornecidos. O desenvolvimento foi feito utilizando HTML, CSS e JavaScript no Visual Studio Code.
 
 ## :hammer: Tecnologias
 
